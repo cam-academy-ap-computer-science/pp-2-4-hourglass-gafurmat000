@@ -1,3 +1,22 @@
+/***** 
+ * Grading Comments:   23/25 pts
+ * Very Good Job.  I like the way you did your pseudocode 
+ * and comments in particular.  You also made it extra-hard
+ * on yourself by doing spaces AFTER the '/' on the other
+ * side of the hourglass which wasn't necessary, but
+ * nice work anyway.
+ * 
+ * Correct Output 10/10
+ * Proper Use of Static Methods 3/3
+ * Proper Use of for loops 3/3
+ * Pseudocode 3/3
+ * Comments 2/2
+ * Consistent Layout and Style 2/2 -  Make sure your
+ *   indentation lines up correctly, though - 
+ * Proper Use of Class Constant 0/2 - You didn't use a class
+ * constant at all.  
+ * Resizing extra credit: 0/2
+ */ 
 /* 
  toAndBottom for (line 1 and 11) {
  	draw a bar
